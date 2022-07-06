@@ -1,0 +1,17 @@
+PROGRAM:
+  MAIN MENU:
+    SEARCH BAR:
+      title: "探す:"
+      search: "検索"
+      editLine: "click here"
+    SCROLL:
+      add: "エントリを追加"
+    OPTIONS:
+      options:
+        - "スタイル"
+        - "時計"
+        - "通貨"
+        - "言語"
+        
+
+  

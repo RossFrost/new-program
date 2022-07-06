@@ -1,0 +1,29 @@
+PROGRAM:
+  MAIN MENU:
+    SEARCH BAR:
+      title: "SEARCH:"
+      search: "SUBMIT"
+      editLine: "click here"
+    SCROLL:
+      add: "Add Entry"
+    OPTIONS:
+      options:
+        style: "Styles"
+        clock: "Clocks"
+        currency: "Currency"
+        language: "Language"
+  ADD ENTRY:
+    FORM:
+      title: "Add Entry"
+      gather:
+        name: "Entry Name:"
+        url: "URL: "
+      button: "SUBMI"
+    INFO:
+      list:
+        website: "Website: "
+        order: "Order Number: "
+        date: "Date: "
+        total: "Total Price: "
+        products: "Proucts:"
+        
